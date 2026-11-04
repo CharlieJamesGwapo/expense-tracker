@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "next": "^16.2.10",
+    "next": "^16.4.1",
     "react": "^19.2.7",
     "react-dom": "^19.2.7",
     "recharts": "^3.9.1"
